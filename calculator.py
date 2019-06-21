@@ -1,7 +1,7 @@
 # prompt user for input
 num1 = int(input("Enter a number: "))
-num2 = int(input("Enter a number: "))
 oper = input("Enter the operator: ")
+num2 = int(input("Enter a number: "))
 
 # perform calculations
 if oper == "*":
