@@ -16,4 +16,4 @@ else:
     print("You have entered an invalid operator")
     exit()
 
-print(num1, oper, num2, ans)
+print(num1, oper, num2, "=", ans)
